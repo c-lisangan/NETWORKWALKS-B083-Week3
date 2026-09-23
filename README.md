@@ -181,3 +181,7 @@ My-Locked-PDF3 File
 * **Best Practices:** void common patterns, dictionary words, predictable words and personal context such as names, birth dates, company names or public personal details that can be gather through OSINT.
 
 ---
+
+LinkedIn Post Screenshot (View the post here https://www.linkedin.com/feed/update/urn:li:activity:7508348519313788929/)
+<img width="1908" height="2566" alt="image" src="https://github.com/user-attachments/assets/c4858743-2cac-4319-b536-a71962eac06e" />
+
