@@ -1,4 +1,4 @@
-# Week 3 Cybersecurity Lab: Comprehensive Password Cracking & Hash Analysis
+# Week 3 Cybersecurity Lab: Password Cracking & Hash Analysis
 
 ## Overview
 
